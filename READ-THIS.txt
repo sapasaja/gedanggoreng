@@ -1,30 +1,7 @@
-================================================================
-
-Thanks For Using Windows 11 RDP On Azure SandBox Script:
-
-Main Repository: https://github.com/kmille36/Windows-11-VPS
-
-Author Facebook: https://facebook.com/thuong.hai.581
-
-Join our Discord: https://discord.gg/cE6tdwe5sy
+"##################❤❖﷽❖❤##########################"
 
 ================================================================
-
-================================================================
-
- Limitations:
- 
-- Added alternative internet server ( 20 MBPS) auto-connect if main internet server fails to connect. 
-
-- The network speed maximum about 100 MBPS. Don't try to install VPN Sofware on VM (will not work, exclude VPN extension on browser can be use )
-
-- Don't use maximum bandwidth for downloading/uploading large files than 4 GB (quota reset in 5 min) or downloading multiple files same time. Using any download accelerator software like IDM, FDM,... ( = network corrupt)
-
-- If the network disconnected or not working, you must go to azure portal > all resources > select all (uncheck cloudshell) then delete and re-run the script again
-
-================================================================
-
-
+*****************(khasbunalloh wanikmal wakil)******************
 ================================================================
 
  VM Specs:
@@ -32,12 +9,5 @@ Join our Discord: https://discord.gg/cE6tdwe5sy
 - DS2v2 (2vCPU 7GB RAM 64GB Premium SSD). Windows 11 Enterprise
 
 =================================================================
-
- Notes:
-
-- THIS IS ONLY FOR EDUCATIONAL PURPOSES
-
-- DON'T USE FOR MINING OR ILLEGAL USE
-
 
 ================================================================
